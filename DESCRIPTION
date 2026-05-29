@@ -36,7 +36,7 @@ URL: https://anndataR.scverse.org/,
     https://github.com/scverse/anndataR
 BugReports: https://github.com/scverse/anndataR/issues
 Depends: 
-    R (>= 4.5.0)
+    R (>= 4.4.0)
 Imports:
     cli,
     lifecycle,
